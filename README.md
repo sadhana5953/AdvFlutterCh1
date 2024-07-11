@@ -1,10 +1,10 @@
 #  Switch Dark Theme to Light Theme
-<img src="https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/d9dab140-8579-4a28-9fbd-5b55bee2b84e" height=32% width=22%>
-<img src="https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/883e2d97-93f1-48af-9059-cc53199499e9" height=32% width=22%>
+<img src="https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/d9dab140-8579-4a28-9fbd-5b55bee2b84e" height=22% width=35%>
+<img src="https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/883e2d97-93f1-48af-9059-cc53199499e9" height=22% width=35%>
 
 # Registration Page using Stepper Widget
-<img src="https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/af85ca3e-a79b-4c8d-89cc-a7c2cc18e432" height=32% width=22%>
-<img src="https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/eca1c156-581e-4e32-9e6d-58616569a031" height=32% width=22%>
+<img src="https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/af85ca3e-a79b-4c8d-89cc-a7c2cc18e432" height=22% width=35%>
+<img src="https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/eca1c156-581e-4e32-9e6d-58616569a031" height=22% width=35%>
 
 ## State
 - A state is information that can be read when the widget is built and might change or modified over a lifetime of the app.
@@ -82,3 +82,10 @@ return Consumer<Counter>(
 ````
 # Provider Tree
 https://drive.google.com/drive/u/0/home
+
+# Provider & Change Theme using Provider
+<img src="https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/e4106438-4e36-4a59-b61a-fabf2e4dad82" height=22% width=35%>
+<img src="https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/00297466-51cf-456a-9fd5-72e437531931" height=22% width=35%>
+
+[theme.webm](https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/35da73dc-c9bc-409b-8eb2-03a420d2032f)
+
