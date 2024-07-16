@@ -88,3 +88,15 @@ return Consumer<Counter>(
 
 [theme.webm](https://github.com/sadhana5953/AdvFlutterCh1/assets/148869257/35da73dc-c9bc-409b-8eb2-03a420d2032f)
 
+# Quotes Data Solving with Provider
+<img src="https://github.com/user-attachments/assets/8914e761-d142-4abe-bc73-bff599ba0356" height=22% width=35%>
+<img src="https://github.com/user-attachments/assets/bc4c3d20-80be-446b-a4c2-eddfee8ef9d4" height=22% width=35%>
+
+https://github.com/user-attachments/assets/3eb8f16f-e555-41ad-8fd2-3d9f6d109df7
+
+
+# One Time Intro Screen in Flutter 
+<img src="https://github.com/user-attachments/assets/4f20fce9-c158-4c64-8750-79692bcecc81" height=22% width=35%>
+<img src="https://github.com/user-attachments/assets/139b2000-0760-43a7-bbce-09df42c3d9b4" height=22% width=35%>
+<img src="https://github.com/user-attachments/assets/62cbecaf-c8af-4418-bd46-8b7756af20e9" height=22% width=35%>
+<img src="https://github.com/user-attachments/assets/34b0d6c5-82d1-47cb-9454-1b1b5ff86a5b" height=22% width=35%>
