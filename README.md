@@ -154,10 +154,20 @@ https://github.com/user-attachments/assets/3eb8f16f-e555-41ad-8fd2-3d9f6d109df7
 
 
 # One Time Intro Screen in Flutter 
+# SharedPreferences 
+
+- SharedPreferences in Android is a mechanism for saving key-value pairs persistently. It allows you to store and retrieve primitive data types (boolean, float, int, long, String) in a persistent manner across app sessions.
+
+- SharedPreferences is suitable for storing small amounts of data, such as user preferences, settings, or application state.
+
+- SharedPreferences is a simple and effective way to manage app preferences and small amounts of persistent data in Android applications.
+
 <img src="https://github.com/user-attachments/assets/4f20fce9-c158-4c64-8750-79692bcecc81" height=25% width=25%>
 <img src="https://github.com/user-attachments/assets/139b2000-0760-43a7-bbce-09df42c3d9b4" height=25% width=25%>
 <img src="https://github.com/user-attachments/assets/62cbecaf-c8af-4418-bd46-8b7756af20e9" height=25% width=25%>
 <img src="https://github.com/user-attachments/assets/34b0d6c5-82d1-47cb-9454-1b1b5ff86a5b" height=25% width=25%>
+
+https://github.com/user-attachments/assets/8e6e84ee-be90-4774-b676-90c9afc17d70
 
 # Contact Us Page With Interaction
 - The provided URL is passed directly to the host platform for handling. The supported URL schemes therefore depend on the platform and installed apps.
@@ -165,5 +175,20 @@ https://github.com/user-attachments/assets/3eb8f16f-e555-41ad-8fd2-3d9f6d109df7
 <img src="https://github.com/user-attachments/assets/be9cd74b-11ac-487f-8ac7-9181db291b66" height=25% width=25%>
 
 https://github.com/user-attachments/assets/883a8fe7-214f-427c-aed8-d190579333ce
+
+##  Photo Gallery With Biometric Authentication
+- Biometric authentication is becoming increasingly prevalent due to advancements in technology and the growing need for secure and user-friendly authentication methods.
+- Integrate biometric authentication SDKs/APIs (e.g., Apple's Face ID, Android's BiometricPrompt).
+- Ensure fallback options are available.
+- LocalAuthentication is used to check if the device supports biometric authentication and to perform the actual authentication.
+- The _checkBiometrics method checks if biometric authentication is available on the device.
+- The _authenticate method prompts the user to authenticate using biometrics.
+
+<img src="https://github.com/user-attachments/assets/7b68fc13-4a7d-4f56-8bb1-4390986d722d" height=25% width=25%>
+<img src="https://github.com/user-attachments/assets/ac806991-1d2a-4357-a728-345468124dba" height=25% width=25%>
+
+https://github.com/user-attachments/assets/a325982d-b3ca-4719-9a06-6111a7f83ac2
+
+
 
 
